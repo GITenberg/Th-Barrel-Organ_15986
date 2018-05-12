@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3317
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Waugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15986#Th-Barrel-Organ
 gutenberg_issued: '2005-06-04'
 gutenberg_type: Text
 identifiers:
